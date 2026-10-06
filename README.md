@@ -9,7 +9,7 @@ Este repositorio contiene la entrega de la tarea práctica sobre la aplicación 
 - **Autor:** Claudio Ramirez
 - **Código de Estudiante:** 202110020069
 - **Asignatura:** Implementación y Validación de Software
-- **Institución:** Universidad Católica del Norte (UCN)
+- **Institución:** Universidad Central de Nicaragua (UCN)
 
 ---
 
